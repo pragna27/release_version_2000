@@ -1,0 +1,8 @@
+linux-i386:20.00.06.00
+linux-x8664:20.00.06.00
+linux-aarch64:20.00.05.00
+ubuntu-i386:20.00.06.00
+ubuntu-x8664:20.00.06.00
+solaris-sparc:20.00.05.00
+solaris-opteron:20.00.05.00
+aix:20.00.06.00
